@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "JavaScript 作用域和闭包"
+date:   2021-10-24 10:00:00 +0800
 categories: JavaScript
 ---
 
