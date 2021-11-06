@@ -1,7 +1,7 @@
 ---
-layout: home
-excerpt: "A simple and clean responsive Jekyll theme for words and photos."
+title: Post Archive
+layout: posts
+permalink: /
 show_excerpts: true
-paginate: true
-entries_layout: list
+entries_layout: grid
 ---
