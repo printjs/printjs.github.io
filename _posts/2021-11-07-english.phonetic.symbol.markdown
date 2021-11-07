@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "English Phonetic Symbol"
+date:   2021-11-07 19:00:00 +0800
+categories: English
+tags: Phonetic
+---
+
+## Vowels
+
+|Serial Number|Symbol|Monogram|Example|
+|-------|------|--------|-------|
+|1|i|ea,ee,ie|eat,need,thief|
+|2|ɪ|i|sit,fit,give|
+|3|e / eɪ|a|make,lake,later|
+|4|ɛ|e|bed,let,pen|
+|5|æ|a|dad,bad,matter|
+|6|ɑː|o|lock,hat,stop|
+|7|ɑːr|ar|hard,artist,far|
+|8|ɔː|aw,a|law,saw,hall|
+|9|ɔːr|or,ar|born,for,warning|
+|10|ɔɪ|oi|coin,noise,point,soil|
+|11|o / oʊ|oa,o|coat,soap,open|
+|12|uː|oo|mood,food,too|
