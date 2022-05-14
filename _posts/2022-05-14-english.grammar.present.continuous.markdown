@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "English Tense (The present continuous)"
+date:   2022-05-14 19:00:00 +0800
+categories: English
+tags: Grammar
+---
+
+# The present continuous
+
+## Overview
+The present continuous is used to refer to temporary situations,repeated actions around the present moment, and ongoing actions in the present moment.
+
+## how to form
+
+She(Subject) is(am/is/are) wearing(verb+ing) a dress
+
+## present participle spelling rules
+
+|wear|choose|tie|shop|
+|---|---|---|---|
+||last letter is an e|last letters are ie|last letters are consonant-vowel-consonant and final syllable is stressed.|
+|Add `ing` to form regular present participles|leave out e|change ie to y|Double the last letter unless it's `w`,`x`,`y`|
+|wearing|choosing|tying|shopping|
+
+> Action Verb can be used in simple and continuous forms.
+
+> State verb are not usually used in continuous forms.
+
+> I ready every day.✅ -> I am reading right now. ✅
+
+> I own two cars. ✅ -> I am owning two cars. ❌
+
+## Question in the present continuous
+
+Only swap subject and be.
+
+## The present continuous negative
+
+Add `not` after be.
+
+He(Subject) is(am/is/are) not wearing(verb+ing) a hat.

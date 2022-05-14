@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "English Tense (The present simple)"
+date:   2022-05-14 16:38:00 +0800
+categories: English
+tags: Grammar
+---
+
+# The present simple
+
+## Overview
+The present simple is used to make simple statements of fact, to talk about things that happen repeatedly, and describe things that always true.
+
+## how to form
+
+|subject|verb|rest sentence|
+|---|---|---|
+|I/You/We/They|eat|lunch at 2pm every week|
+|He/She/It|eats|lunch at 2pm every week|
+
+## 's' and 'es' endings
+There include verbs ending with `ch`,`sh`,`o`,`ss`,`x`and `z`.
+
+## be in the present simple.
+
+### how to form
+
+|subject|be|rest sentence|
+|---|---|---|
+|I|am|programer|
+|You|are|programer|
+|She/He|is|programer|
+|They|are|programers|
+|It|is|dog|
+
+## have in the present simple
+
+### how to form
+
+|subject|have|object|
+|---|---|---|
+|I/You/We/They|have|a garage|
+|He/She/It|has|a garage|
+
+
+## The present simple negative
+
+### how to form (negative with be)
+The verb `be` takes same form in positive and negative sentence.They only difference is adding `not` after `be`.
+
+EG:
+
+|subject|be|negative|rest sentence|
+|---|---|---|---|
+|I|am|not|a teacher|
+
+### negative with other verb in the present simple
+
+For verb other than `be`, `do not` or `does not` goes before the verb to make negative.
+
+EG:
+
+|subject|do/does not|basic form|rest of sentence|
+|---|---|---|---|
+|I/You/We/The|do not|work|outside|
+|She/He/It|does not|work(only work not works)|outside|
+
+## Present simple question
+
+### Question with `be` in the present simple
+
+Only swapping verb and subject of position in the sentence.
+
+```
+You are a programer. -> Are you a programer.
+```
+
+### Question with `do` and `does`
+
+For question with verb other than `be`. Only add `do` or `does` at start of a sentence.
+
+```
+You work in office. -> Do you work in office.
+She works in school. -> Does she **work(only work not works)** in school.
+```
+
