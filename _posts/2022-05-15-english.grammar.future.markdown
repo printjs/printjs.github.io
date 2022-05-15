@@ -1,0 +1,96 @@
+---
+layout: post
+title:  "English Tense (The future)"
+date:   2022-05-15 20:00:00 +0800
+categories: English
+tags: Grammar Tense
+---
+
+# The future
+
+## the future with `going to` (FIRST)
+
+> Future forms in English are formed using auxiliary verbs.One of the most commonly used constructions is `going to` plus the base form of the main verb.
+
+#### how to form
+
+`Subject` + `is` + `going to` + `verb` + `rest of sentence`
+
+#### `going to` for future plans.
+
+> Going to is used to talk about future events that have been planned in advance,rather than decided upon at the time of speaking.
+
+eg: `I'm going to buy a new car.`
+
+#### `going to` for prediction
+
+> Going to is also used to make predictions when there is evidence in the present moment.
+
+eg: `Look at those clouds.It's going to rain soon.`
+
+#### questions with `going to`
+
+Questions with `going to` are formed by swapping the subject and `be`.
+
+* `Michelle is going to be at the meeting.`
+* `Is Michelle going to be at the meeting?`
+
+## The future with will (SECOND)
+
+> `Will` is used to form some future tenses in English. It can be used in several different ways,which are all different from the future with `going to`.
+
+#### how to form the future with will
+
+`subject` + `will` + `verb` + `rest of sentence`.
+
+#### usage
+
+1. To make a prediction about what you think will happen.(no firm evidence) `Wait a few minutes.I think it will stop raining soon.`
+
+2. To offer to do something for someone. `You look frozen.I will make you some hot soup.`
+
+3. To make a promise. `We will be there by eight. Don't worry!`
+
+4. To describe a decsion you have just made. `I know! I will buy surfboard for his birthday.`
+
+#### Think with will
+
+> `Think` can be used with `will` to show that a prediction is just an opinion, or a decision is not final.
+
+eg:
+
+* I think that we will have enough food for the party.
+* I am tired.I think I will go to bed.
+
+#### Future with Shall
+
+> shall is used instead of `will` when asking for a decision, or making offers or suggestions. In there cases, it is only used with `I` or `we`.It is rarely used in US english.
+
+eg: `Shall I pick you up or shall we meet at the restaurant?`
+
+## The present for future events (THIRD)
+
+> The present simple and present continuous can be used to talk about future events that are already planned. **They are usually used with a future time word or time phrase**
+
+### The present simple for future events (THIRD-FIRST)
+
+> The present simple can be used to talk about events that are **scheduled** to take place in the future.
+
+eg: `The train arrives at 10pm tonight.`
+
+#### how to form
+
+`Subject` + `present simple` + `future time phrase`
+
+### The present continuous for future events (THIRD-SECOND)
+
+> The present continuous can be used to talk about pre-arranged future events. Time markers usually show whether the event is in the present or future.
+
+eg: `At the moment Dave is working, but tomorrow he is playing golf.`
+
+* At the moment Dave is working -> present continuous
+* But tomorrow he is playing golf. -> the present continuous for future events.
+
+#### how to form
+
+`Subject` + `present continous` + `future time phrase`
