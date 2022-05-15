@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "English Tense (The past continuous)"
+date:   2022-05-15 11:33:00 +0800
+categories: English
+tags: Grammar Tense
+---
+
+# The past continuous
+
+The past continuous is used in English to talk about actions or events that were in progress at some time in the past.It is formed with `was` or `were` and a present participle.
+
+## different
+
+1. Past simple
+`I knocked on your door at noon,but you weren't at home. What were you doing?`
+
+2. Past Continuous
+`I was eating lunch with a friend.`
+
+## The past continuous for scene-setting.
+
+The past continuous is often used in storytelling to set a scene of describe a situation.
+
+`It was a beatiful day. The sun was shining and the birds were singing.Children were laughing and playing in the street.`
+
+## The past continuous and the past simple
+
+When English uses the past continous and past simple together, the past continous describes a longer,background action, and the past simple describe shorter action that interrupts the background action.
+
+`I was taking a photo when a monkey grabbed my camera.`
+
+> The monkey broken take a photo.
+
