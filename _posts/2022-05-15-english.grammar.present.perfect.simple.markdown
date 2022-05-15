@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "English Tense (The present perfect simple)"
+date:   2022-05-15 12:10:00 +0800
+categories: English
+tags: Grammar Tense
+---
+
+# The present perfect simple
+
+The present perfect simple is used to talk about events in the recent past that still have an effect on the present moment.It is formed with `have` and `a past participle`.
+
+## present perfect
+
+The present perfect can be used to talk about the past in a number of different ways:
+
+1. To give new information or news `Hi! I have arrived in London! My plane landed five minutes age.`
+
+2. To talk about a repeated action that continues to happen over a period of time. `I have visited California every summer since I was 18.`
+
+3. To talk about an event that started in the past and is still happening now. `Olivia has gone on a trip to Egpyt.`
+
+## how to form
+
+`Subject` + `Have/has` + `past participle` + `rest of sentence`.
+
+## past participles
+
+### Regular
+
+|ask|call|help|need|play|talk|walk|want|watch|work|
+|---|---|---|---|---|---|---|---|---|---|
+|asked|called|helped|needed|played|talked|walked|wanted|watched|worked|
+
+### Irregular
+
+|be|buy|come|do|have|give|go|make|say|see|
+|---|---|---|---|---|---|---|---|---|---|
+|been|bought|come|done|had|given|gone|made|said|seen|
+
+[more](https://baike.baidu.com/item/%E4%B8%8D%E8%A7%84%E5%88%99%E5%8A%A8%E8%AF%8D/4852767)
+
+## Gone and Been
+
+### Gone
+```
+I haven't seen joan recently. Where is she?
+She has gone to Florida.
+```
+**She is still in Florida**
+
+### Been
+```
+Hi,Joan.You are looking well.
+Yes,I have been to Florida.
+```
+**She wen to Florida,but now she is back home.**
+
+## the present perfect and the past simple
+
+The past simple is used to talk about something that happened at **a definite time**. The present perfect is used **when a particular time is not specified**.
+
+Have you ever been to France?
+
+1. Yes, I visited Paris in 2010.
+
+2. Yes, I have visited Paris many times.
+
