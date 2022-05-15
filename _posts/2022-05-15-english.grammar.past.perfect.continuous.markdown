@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "English Tense (The past perfect continuous)"
+date:   2022-05-15 14:00:00 +0800
+categories: English
+tags: Grammar Tense
+---
+
+# The past perfect continuous
+
+> The past simple refers to a specific completed event in the past. The past perfect continuous describes a repeated action or continuing activity that was taking place bebore taht completed event.
+
+1. He had been studying english for two years before he went to London.
+2. By the time katie arrived home, she had been driving for six hours.
+
+## how to form
+
+`subject` + `had been` + `verb + ing` + `rest of sentence`.
+
+## the present perfect continuous and the past perfect continuous
+
+> The present perfect continuous is used to talk about an action in progress or repeated activity that taking place until the present moment.
+
+`I'm really thirsty. I have been cycling for two hours.`
+
+> The past perfect continuous is used to talk about an ongoing action or repeated activity that was taking place until another speified moment in the past.
+
+`I was really thirsty. I had been cycling for two hours.`
