@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "English Tense (The present simple)"
-date:   2022-05-14 19:20:00 +0800
+date:   2022-05-15 11:20:00 +0800
 categories: English
 tags: Grammar Tense
 ---
@@ -58,6 +58,6 @@ Questions in the past simple are used `did`.For past simple questions with `be`,
 
 eg:
 
-`They bought a new car` -> `Did they buy a new car?`
-`She visited her parents last week` -> `Who did she visit last week ?`
-`She was excited.` -> `Was she excited ?`
+* `They bought a new car` -> `Did they buy a new car?`
+* `She visited her parents last week` -> `Who did she visit last week ?`
+* `She was excited.` -> `Was she excited ?`
