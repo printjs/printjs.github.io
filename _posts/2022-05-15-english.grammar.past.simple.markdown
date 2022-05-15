@@ -1,0 +1,63 @@
+---
+layout: post
+title:  "English Tense (The present simple)"
+date:   2022-05-14 19:20:00 +0800
+categories: English
+tags: Grammar Tense
+---
+
+# The past simple
+
+## Overview
+
+The past simple is used to talk about completed actions that happened at fixed time in the past.It is the most commonly used past tense in English.
+
+## How to form
+
+|Subject|past verb|rest of sentence|
+|---|---|---|
+|I/You/He/She/We/They|played|tennis yesterday.|
+
+
+## present participle spelling rules
+
+|wash|dance|try|stop|
+|---|---|---|---|
+||last letter is an e|last letters are a consonant and a y|last letters are consonant-vowel-consonant and final syllable is stressed.|
+|Add `ed` to form regular present participles|just a `d` is added|The `y` is removed and `ied` is added instead|The last consonant is doubled and `ed` is added.|
+|washed|danced|tried|stopped|
+
+
+## Irregular verbs in the past simple
+
+|go|have|do|put|come|see|buy|
+|---|---|---|---|---|---|---|
+|went|had|did|put|came|saw|bought|
+
+[more](https://baike.baidu.com/item/%E4%B8%8D%E8%A7%84%E5%88%99%E5%8A%A8%E8%AF%8D/4852767)
+
+## Be in the past simple
+
+`subject + was/were + rest of sentence`
+
+## the past simple negative
+
+the past simple negative uses `did not` or `didn't` with the base form of the main verb. The main verb is not put into the past simple.
+
+`subject didn't go swimming`.
+
+## the past simple negaive of be
+
+To form the past simple negative of be, `not` is added after `was` or `were`.
+
+`The book was interesting,but the movie was not.`
+
+## past simple question
+
+Questions in the past simple are used `did`.For past simple questions with `be`, the subject and the verb (`was`,`were`) are swapped around.
+
+eg:
+
+`They bought a new car` -> `Did they buy a new car?`
+`She visited her parents last week` -> `Who did she visit last week ?`
+`She was excited.` -> `Was she excited ?`
