@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "English Tense (The present perfect continuous)"
+date:   2022-05-15 13:10:00 +0800
+categories: English
+tags: Grammar Tense
+---
+
+# The present perfect continuous
+
+The present perfect continous is used to talk about a continuing activity in the past that **still has an effect on the present moment**.It usually refers to the recent past.
+
+## how to form
+
+`subject` + `has/have` + `been` + `verb + ing` + rest of sentence.
+
+## The present perfect continuous and the present perfect simple
+
+The present perfect continous is used to show that an activity in the past was in progress. It is possible that the activity is still taking place.
+
+eg:
+
+`I have been fixing my car. I'm covered in oil.`
+**The car is not working now.**
+
+The present perfect simple is used to show that an activity in the past is finished.
+
+`I have fixed my car. Now I can drive to work again.`
+**The car is working now**
+
