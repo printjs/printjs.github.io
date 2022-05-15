@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "English Tense (The past perfect)"
+date:   2022-05-15 13:42:00 +0800
+categories: English
+tags: Grammar Tense
+---
+
+# The past perfect
+
+When talking about two events that happened at different times in the past,the past simple describes the event that is closest to the time of speaking.The past perfect describes an event further back in the past.
+
+eg: 
+
+1. The train had left before we arrived at the station.
+2. Pablo had gone to work when I knocked on his door.
+
+## how to form
+
+`subject` + `had` + `past participle` + rest of sentence
+
+## The present perfect and past perfect
+
+> The present perfect is used to talk about an action that took place in the recent past and is still relevant to the present moment.
+
+`I'm so excited. I have just passed my driving test.`
+
+The past perfect is used to talk about an action that took place before another moment in the past.
+
+`I was so excited. I had just passed my driving test.`
