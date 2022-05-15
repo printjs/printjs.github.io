@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "English Tense (The future continuous)"
+date:   2022-05-15 20:00:00 +0800
+categories: English
+tags: Grammar Tense
+---
+
+# The future continuous
+
+> The future continuous can be formed using `will` or `going to`.It describes an event or situation that will be in progress at some point in the future.
+
+## With `will`
+
+> The future continuous describes an event that will be in progress at a given time in the future which is often stated. The event will start before the stated time and may continue after it.
+
+eg: `Right now I am working in a cafe. In 10 years' time, I hope I will be running a bistro.`
+
+* `Right now I am working in a cafe.` the present continuous.
+* `In 10 years' time, I hope I will be running a bistro.` future continuous
+
+### how to form
+
+`Subject` + `will be` + `present participle` + `object`.
+
+### the future continuous with `anyway`
+
+> the future continous can also be used to talk about events that are going to happen as `matter of course` or `anyway`
+
+* A: Oh no, I have run out of milk.
+* B: I can get some for you later.
+* A: No,please don't worry.
+* B: ***It's okay, I will be driving past the store anyway.***
+
+### neutral questions
+
+> the future continuous is also used to ask neutral questions: questions asked for information,not to make a request.
+
+1. neutral questions
+  * A: Will you be coming into work tomorrow ? 
+  * B: Yes, I willl.
+  * A: Ok, let's talk about the report then.
+
+2. request
+  * A: Will you come into work tomorrow please ?
+  * B: Sure, no problem.
+
+### the future continuous to talk about the present
+
+> You can also use the future continuous to speculate about what is happening at the **present moment**.
+
+1. eg1
+  * A: Where is Sarah ?
+  * B: Shell will be studying in the library probably.
+2. eg2
+  * A: Why is Nev late ?
+  * B: He will be taking his children to school.
+
+## With `going to`
+
+> The future continuous can sometimes be formed with `going to` instead of `will`, but this is less common. It can be used in most future continuous constructions except to speculate about the present.
+
+eg: `I can't come out this evening.I'm going to be studying all night.`
+
+### how to form
+
+`Subject` + `Be` + `going to be` + `present participle` + `rest of sentence.`
+eg:
+
+1. I want to go away on Saturday, but I am going to be working all weekend.
+2. I am going to be staying with my husband's family for the hoildays this year.
