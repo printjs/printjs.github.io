@@ -1,0 +1,216 @@
+---
+layout: post
+title: The passive
+date: 2022-05-16 10:14:00 +0800
+categories: English
+tags: Grammar Passive
+---
+
+# The Passive in the present simple passive.
+
+> In the present passive, the present simple verb becomes a past participle.
+
+|normal|passive|
+|---|---|
+|`Many people study this book.`|`The book is studied by many people.`|
+
+## further examples
+
+> The passive is used when the **agent(the person or thing doing the action) is obvious, unknow, or unimportant**. It is also useful when describing a process where **the result of the action is important**.
+
+eg: 
+
+1. Criminals are arrested every day in the town.
+  * The speaker doesn't mention the agent because the verb obviously refers to police
+
+2. Are the posters printed on quality paper ?
+  * The agent is not mentioned because the process is more important.
+  * be and the subject swap places to form question.
+
+## how to form
+
+> All passives use a from of `be` with `past participle`.The agent (the thing doing the action) can be introduced with `by`, but the sentence would still make sense without it.
+
+`Subejct` + `be(am/is/are)` + `past praticiple` + `by` + `rest of sentence.`
+
+# The present continuous passive
+
+> The present continous passive is used to refer to ongoing actions.
+
+|normal|passive|
+|---|---|
+|`Developers are building lots of new houses in the area.`|`Lots of new houses are being built in the area.`|
+
+## futher examples
+
+* You can't use the pool today because it is being cleaned.
+* Dont't worry, the food is being cooked as we speak.
+* I have to walk to work while my car is being repaired.
+
+## how to form
+
+`Subject` + `be(am/is/are)` + `being` + `past participle` + `rest of sentence.`
+
+# The passive in the past
+
+> English uses the passive voice in the past to stress the effect of an action that happened in the past, rather than the cause of that action.
+
+|normal|passive|
+|---|---|
+|`The fire destroyed the buildings.`|`The building were destroyed by the fire.`|
+
+
+## futher examples
+
+* The trees were cut down last year.
+* The rail road was damaged during the storm.
+
+## how to form
+
+`Subject` + `was/were` + `past participle` + `rest of sentence.`
+
+# The past continuous passive
+
+> The past continuous can also be used in the passive voice. It is used to refer to ongoing actions in the past.
+
+|normal|passive|
+|---|---|
+|`Secret agents were watching him.`|`He was being wathed by secret agents.`|
+
+
+## futher examples
+
+* The students were being taught how to write good essays.
+* I went for lunch while my car was being fixed.
+* We bought our house while it was being built.
+
+
+## how to form
+
+`Subject` + `was/were` + `being` + `past participle` + `by` + `rest of sentence.`
+
+# The present perfect passive
+
+> The present perfect passive is used to talk about events in the past that still have an effect on the present moment.
+
+|normal|passive|
+|---|---|
+|`Don't worry, I have fed the cats.`|`Don't worry, the cats have been fed.`|
+
+## futher exmaples
+
+* This door has been painted beautifully.
+* Do you know if all the lights have been turned off?
+* Has your computer been fixed yet ?It broke months ago!
+
+## how to form
+
+`Subject` + `has/have` + `been` + `past participle`
+
+# The past perfect passive
+
+> The past perfect passive is used to refer to events that happened before another event in the past.
+
+|normal|passive|
+|---|---|
+|`Unfortunately, the organizer had canceled the party.`|`Unfortunately, the part had been canceled`|
+
+## further examples
+
+* The class hadn't been told that the lecture had been canceled.
+* Anna was so happy that her cart had been found.
+
+## how to form
+
+`Subject` + `Had Been` + `past participle`
+
+# The passive in the future
+
+> English uses the passive voice in the future to stress the effect of an action that will happen in the future, rather than cause of that action.
+
+> The future simple passive is usually formed with `will` rather than `going to`
+
+|normal|passive|
+|---|---|
+|`Hopefully, the police will catch the thief very soon`|`Hopefully, the thief willn be caught very soon.`|
+
+## futher examples
+
+* Don't worry, the house will be finished very soon.
+* An email will be sent to you all next week with more details.
+* Sorry, but the power will be turned off between 2pm and 5pm.
+
+## how to form
+
+`Subject` + `will be` + `past participle` + `rest of sentence.`
+
+# The future perfect passive
+
+> The future perfect passive is used talk about events that will be finished at some point int the future.
+
+|nromal|passive|
+|---|---|
+|`The mechanic will have fixed the car by 5pm.`|`The car will have been fixed by 5pm.`|
+
+## futher examples
+
+* We think every ticket will have been bought before the end of the day.
+* Hurry up or all the goods seats will have been taken already.
+* Will those letters have been sent out before lunchtime tomorrow ?
+
+## how to form
+
+`Subject` + `will have been` + `past participle.`
+
+# The passive with modals
+
+|normal|future|
+|---|---|
+|`You should tell her the exciting news.`|`She should be told the exciting news.`|
+
+## futher examples
+
+* Should the package be delivered to your house or your office ?
+* All new employees must be shown what to do if there has fire.
+
+## how to form
+
+`Subject` + `Modal verb` + `be` + `past participle` + `rest of sentence.`
+
+# Modals in the perfect passive
+
+> Modals in perfect tense can become passive by replacing `have` with `have been`
+
+|normal|passive|
+|---|---|
+|`The managers should have given Daniel more time.`|`Daniel should have been given more time.`|
+
+## further examples
+
+* We should have been told that the concert was canceled!
+* The robber would have been arrested if he hadn't been so quick.
+
+## how to form
+
+`Subject` + `Modal Verb` + `Have Been` + `Past Participle` + `rest of sentence`
+
+# Other Passive constructions
+
+## Reporting with passives
+
+> Some passive constructions are used to distance the writer or speaker from the facets.They are often used to academic writing or new reports.
+
+* `It has been reported` that three sailors have disappeared.
+* `The race is known` to be extremely dangerous.
+* `There are said` to be at least 20 boats in the search party.
+
+## using `get`
+
+> `Get` can sometimes replace `be` in passive sentences. This form is more informal than the passive with `be`.
+
+* `Bikes get stolen in this town every day.`
+* `My friend's bike got stolen yesterday.`
+
+### how to form
+
+`Subject` + `GET/GOT` + `past pasticiple` + `rest of sentence`
