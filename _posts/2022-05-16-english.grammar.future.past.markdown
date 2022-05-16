@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "English Tense (The future in the past)"
+date:   2022-05-16 09:46:00 +0800
+categories: English
+tags: Grammar Tense
+---
+
+# The future in the past
+
+> There are a number of constructions in English that can be used to describe thoughts about future that someone had at some point in the past.
+
+## using `was going to`
+
+> The future in the past is used to look back on an earlier prediction. Where `going to` is used to talk about the future from the present,`was/ were going to` is used to talk about a past view of it.
+
+|earlier|now|
+|---|---|
+|`This traffic is awful! I think I am going to be late for work`|`I thought I was going to be late, but I am right on time`|
+
+### how to form
+
+`Subject` + `was/ were` + `going to` + `verb` + `rest of sentence.`
+
+## using `would`
+
+> Where `will` is used to talk about a future event from the present,`would` is used to talk about a past view of it.
+
+|earlier|now|
+|---|---|
+|`I think I will finish the gardening today.It shouldn't take too long.`|`I thought I would finish today,but there is still a lot left to do.`|
+
+## using `the past continuous`
+
+> The past continous is used to talk about an arranged future event from a time in the past.
+
+|Monday morning|Monday afternoon|Now|
+|---|---|---|
+|nervous|driving test|`Jenny was extermely nervous on Monday morning.She was talking her driving test that afternoon.`|
+
+eg:
+
+1. They `were planning` to go to the beach tomorrow, but the weather's terrible.
+2. Michlle had been cleaning all day. Her sister `was arriving` that evening.
+3. Hugo had to go to bed early because he `was flying` early the following morning.
