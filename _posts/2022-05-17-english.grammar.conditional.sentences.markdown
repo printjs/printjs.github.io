@@ -1,0 +1,177 @@
+---
+layout: post
+title: The Conditional Sentences
+date: 2022-05-17 20:00:00 +0800
+categories: English
+tags: Grammar ConditionalSentences
+---
+
+# Conditional Sentences
+
+> Conditional sentences are used to describe real or hypothetical results of real or hypotheical situations. They can use many different verb forms.
+
+# The Zero Conditional
+
+> The Zero conditional, also called the `real` conditional, refers to thing that are always true. It is used to describe the direct result of an action.
+
+`If / When` you heat water, it boils.
+
+Oil floats when you pour it onto water.
+
+## how to form
+
+||`action(present simple)`|comma|`result (present simple)`|
+|---|---|---|---|
+|`if/when`|`you heat ice`|,|`it melts`|
+
+# Conditionals with imperatives
+
+> Imperatives can be used in conditional sentences. The `if` clause describe a hyponthetical situation and the imperative clause describes what someone should do if that hyponthetical situation actually happens.
+
+* If you are cold, put on a coat.
+* If you feel sick, call a doctor.
+* let me know if you need help.
+
+## how to form
+
+||present simple|comma|imperative|
+|---|---|---|---|
+|if|the traffic is bad|,| cycle to work|
+
+# The First Conditional
+
+> The first conditional, also called the future real conditional, uses if to describe a realistic action that might lead to a future result.
+
+* If you enough money, I will go on a cruise.
+* If you jogging, I will lose weight.
+* If it snows, I will go skiing.
+* I won't go outside if it rains.
+
+## how to form
+
+> The first conditional is ususally introduced by an `if` clause, followed by the present simple. The future with `will` expresses the result.
+
+||`present simple`|comma|`future with will`|
+|---|---|---|---|
+|`if`|`I cook`|,|`will you do the dishes?`|
+
+# The Second Conditional
+
+> The second conditional, also called the `unreal` conditional, uses `if` to describe an unlikely or unreal action or event. The described result is also very unlikely.
+
+* If I won the lottery,I would leave my job.
+* If he wasn't so busy, he could take a break.
+* If I had more time, I could take up karate.
+
+## how to form
+
+|if|`past simple`|comma|`would / could + base form`|
+|----|----|----|----|
+|if|`I saw a ghost`|,|`I would be terrified.`|
+
+# The Third Conditional
+
+> The third conditional, also called the `past unreal` conditional, is used to describe unreal situations in the past.It is often used to express regret about the past because the hypothetical situation that it describes is now impossible as consequences of another past aciton.
+
+* If we had left earlier, we would have caught the train.
+* If I had woken up on time,I would have done my hair.
+
+## how to form
+
+|if|`had past participle`|,|`would / could / might`|`have + past participle`|
+|---|---|---|---|---|
+|if|`you had been wearing a couat`|,|`you might`|`have stayed warm.`|
+
+
+# The Mixed Conditional
+
+> Mixed conditionals are ususlly used to talk about pyphotheical present result of unreal past situations.
+
+`Mixed second conditional and third conditional`
+
+* If you had been born a month earlier, you would be a Virgo like me.
+* You would be starting at a new school torromow if you hadn't failed your exams.
+* We would be on beach in Greece by now if we hadn't missed our flight.
+
+## how to form
+|third conditional|second conditional|
+|---|---|
+|If you hadn't forgotten to bring the keys,|we wouldn't be locked out of the house.|
+
+
+# Other Conditional sentences.
+
+> English allows for some variations in conditional sectence structures. There give more information about the context of the conditional.
+
+## conditional sentences with modal verbs.
+
+> First,second, and third conditional sentences can use different modal verbs in their `result` clauses. There can be used to express uncertainly,possibility, or obligation, amongst other things.
+
+### first conditional
+
+> In the first conditional, `will` can be replaced by a variety of modal verbs to talk about different ideas.
+
+* If I save enough money,I `will / can` buy a new car.
+
+### second conditional
+
+> In the second conditional, `would` can be replaced by `could` or `might` to express ability, possibility, or uncertainty.
+
+* If I saved enough money, I `would / could / might` by a new car.
+
+### third conditional
+
+> In the third conditional, `would` can be replaced by `could` or `might` to express ability, possibility, or uncertainty.
+
+* If I had saved enough money, I `would / could / might` have bought a new car.
+
+### first conditional with `unless`
+
+> `unless` can be used instead of `if` in conditional sentences. `Unless` means of `if...not`, so the future result depends on the suggested action not happening.
+
+* `If you don't / Unless you` study hard, you will fail your exams.
+* `If you don't / Unless you ` get up now. you will late for work.
+* I will be angry `[if he doesn't turn / unless he turns]` that music down.
+
+### formal third conditional
+
+> The third conditional can be made more formal by swapping `had` with `subject` and dropping `if`.
+
+|normal|formal|
+|---|---|
+|`If you had` attended the meeting, you would have met the manager.|`Had you` attended the meeting, you would have met the manager.|
+|`If I had` workded harder at school, I could have studied medicine.|`Had I ` workded harder at school, I could have studied medicine.|
+|`If she had` woken up earlier, she wouldn't have been late.|`Had she` woken up earlier, she wouldn't have been late.|
+
+# Future Possibilities
+
+> There are many ways to talk about imaginary future situations.Different structures can be used to indicate whether a situation is likely or unlikely.
+
+## likely future possibilities
+
+> What if means what would happen if an imaged situation occured?
+
+* **What if / Suppose** I `fail` my exams? I won't be able to go to college.
+  * Present tense shows the speaker believes this is likely to happen.
+* **What if** the computer crashes? I will lose all my work.
+* **Suppose** they assess our coursework,We will have to keep a portfoilo.
+
+## unlikely future possibilities
+
+* Just imageine ! **What if / Suppose** we all `got` 100% on our exams?
+  * The past tense shows the speaker think this is unlikely to happen.
+* What if our flight was canceled? We would be stuck here!
+
+## Thing that could have happened
+
+> What if and suppose can also be used with the past perfect to describe situations that were possible in the past, but that didn't happen, or might not have happened.
+
+* That was so dangerous! **What if / Suppose** you `had broken` your leg ?
+
+## In Case
+
+`In Case` or `just in case` plus the present tense are used to show planning for a possible future situation.
+
+* Make sure the windows are shut `in case` the cat `tries` to escape.
+* You should take an umbrella with you `in case` it rains later.
+
