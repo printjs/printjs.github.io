@@ -1,0 +1,21 @@
+---
+layout: post
+title: Composition One
+date: 2022-06-07 22:00:00 +0800
+categories: English
+tags: composition
+---
+
+# Creating Green Culutre and Building Low-Carbon Campus
+
+> Directions
+> The environment protection club is going to organize some activities with the theme of "Creating Green Culutre and Building Low-Carbon Campus". As the club leader, you will write a memo to the members to explain the importantance and arrangements of those activities.
+
+```English
+To: All club members
+From: Li Ming
+Date: December 21,2020
+Subject: Creating Green Culutre and Building Low-Carbon Campus
+
+We are going to launch a series of activities to promote low-carbon lifestyle, or more specifically to advocate energy efficiency, waste minimization and recycling. This green lifestyle is a potential recipe for a healthier and more habitable environment and highly recommendable to every person. \ To attract more schoolmates to accept this low-carbon lifestyle, we will hold lectures to introduce the new life concept, make broadcast programs to record low carbon experiences around us and host an exhibition of fruits of recycling to encourage students to make the best use of old stuff.In addition, we will hand out leaflets to every dormitory, recommending students to switch off unused lights and other electrical equipment, recycle paper, batteries and plastic bottles, and travel by bicycle, bus or subway. \ All members are required to take part in those above activities. Other creative thoughts and brilliant ideas about activity plan will be encouraged.
+```
